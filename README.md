@@ -1,5 +1,5 @@
 # mishaModhl2
-25.08.2022 Дата
+25.08.2022 Доступен https://drive.google.com/file/d/1NYpTw4EMTwskAaQ6xxOnGi0EMxbv4I1R/view?usp=sharing
 
 
 Это mishaModhl2 - мод HL2, ориентированный на ускорение и Наслаждение.
