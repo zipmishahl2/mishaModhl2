@@ -11,7 +11,13 @@
 
 ... вот так mishaModhl2 возродился.
 
-
+| Version | Supported          |
+| ------- | ------------------ |
+| 0.5 | очень скоро        |
+| 0.4 | :white_check_mark: |              |
+| 0.3 | :white_check_mark: |
+| 0.2 | :white_check_mark: |
+| 0.1 TEST | :x:           |
 
 Цели
 Упрощение управления для ускорения
