@@ -1,6 +1,6 @@
 # mishaModhl2
-25.08.2022 Доступен https://drive.google.com/file/d/1NYpTw4EMTwskAaQ6xxOnGi0EMxbv4I1R/view?usp=sharing
-
+25.08.2022 Доступен
+..
 
 Это mishaModhl2 - мод HL2, ориентированный на ускорение и Наслаждение.
 
@@ -14,7 +14,7 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.6 | coming soon        |
-| 0.5 | 🌍 Test coon...    |
+| 0.5 | 🌍 Уже сегодня     |
 | 0.4 | :white_check_mark: |              
 | 0.3 | :white_check_mark: |
 | 0.2 | :white_check_mark: |
