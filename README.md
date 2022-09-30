@@ -14,7 +14,7 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.6 | coming soon        |
-| 0.5 | 🌍 Уже сегодня     |
+| 0.5 | :white_check_mark: |
 | 0.4 | :white_check_mark: |              
 | 0.3 | :white_check_mark: |
 | 0.2 | :white_check_mark: |
