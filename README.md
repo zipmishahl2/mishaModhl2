@@ -13,7 +13,7 @@ Update 0.6!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.7 | :x:                |
+| 0.7 | :white_check_mark: |
 | 0.6 | :white_check_mark: |
 | 0.5 | :white_check_mark: |
 | 0.4 | :white_check_mark: |              
