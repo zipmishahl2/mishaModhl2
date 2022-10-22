@@ -41,4 +41,6 @@ Update 0.7!
 Discord https://dsc.gg/mods-by-misha
 Новости
 
+
+Error 404:
 Если есть вопросы пишите мне в дискорд.
