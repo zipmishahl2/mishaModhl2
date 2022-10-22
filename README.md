@@ -40,3 +40,5 @@ Update 0.7!
 Соц-сети
 Discord https://dsc.gg/mods-by-misha
 Новости
+
+Если есть вопросы пишите мне в дискорд.
