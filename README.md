@@ -1,6 +1,6 @@
 # mishaModhl2 
 25.08.2022 Доступен
-Update 0.6!
+Update 0.7!
 
 Это mishaModhl2 - мод HL2, ориентированный на ускорение и Наслаждение.
 
@@ -13,6 +13,9 @@ Update 0.6!
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.0 | :x:                |
+| 0.9 | :x:                |
+| 0.8 | coon               |
 | 0.7 | :white_check_mark: |
 | 0.6 | :white_check_mark: |
 | 0.5 | :white_check_mark: |
@@ -35,5 +38,5 @@ Update 0.6!
 в прошлом было только ABH, сейчас теперь bhop W вперёд идти... и ABH
 
 Соц-сети
-https://www.reddit.com/r/NewszipMisha/
+Discord https://dsc.gg/mods-by-misha
 Новости
