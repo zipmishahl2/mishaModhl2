@@ -13,9 +13,12 @@ Update 0.7!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0 | :x:                |
-| 0.9 | :x:                |
-| 0.8 | coon               |
+| 1.3 | :x:                |
+| 1.2 | :x:                |
+| 1.1 | coon               |
+| 1.0 | coon               |
+| 0.9 | :white_check_mark: |             
+| 0.8 | :white_check_mark: |
 | 0.7 | :white_check_mark: |
 | 0.6 | :white_check_mark: |
 | 0.5 | :white_check_mark: |
