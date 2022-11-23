@@ -43,7 +43,7 @@ Update 0.7!
 Наша игра мод расширяет границы и так далее!
 
 Соц-сети
-Discord https://dsc.gg/mods-by-misha
+Discord https://discord.gg/JthHPuyW
 Новости
 
 
