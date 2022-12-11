@@ -1,6 +1,6 @@
 # mishaModhl2 
 25.08.2022 Доступен
-Update 0.7!
+Update 0.11!
 
 Это mishaModhl2 - мод HL2, ориентированный на ускорение и Наслаждение.
 
@@ -13,10 +13,16 @@ Update 0.7!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.3 | :x:                |
+| 2.0 | :x:                |
+| 1.9 | :x:                |
+| 1.8 | :x:                |
+| 1.7 | :x:                |
+| 1.6 | :x:                |
+| 1.5 | :x:                |
+| 1.4 | :x:                |
 | 1.2 | :x:                |
-| 1.1 | coon               |
-| 1.0 | coon               |
+| 1.1 | :white_check_mark: |
+| 1.0 | :white_check_mark: |
 | 0.9 | :white_check_mark: |             
 | 0.8 | :white_check_mark: |
 | 0.7 | :white_check_mark: |
